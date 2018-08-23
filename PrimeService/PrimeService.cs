@@ -10,9 +10,6 @@ namespace Prime.Services
             {   
                 return false;
             }
-            else{
-                return true;
-            }
             throw new NotImplementedException("Please create a test first");
         }
     }
